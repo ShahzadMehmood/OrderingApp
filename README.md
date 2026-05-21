@@ -100,14 +100,6 @@ git clone https://github.com/ShahzadMehmood/OrderingApp.git
 
 Licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
-<h1>Screenshots</h1>
-
-![IMG-20230802-WA0006](https://github.com/ShahzadMehmood/OrderingApp/assets/74652787/ea56d122-f3f2-4696-a0be-4a1b83a42711)
-![IMG-20230802-WA0003](https://github.com/ShahzadMehmood/OrderingApp/assets/74652787/f0b9e14b-f8bd-493c-95de-31705a8d464d)
-![IMG-20230802-WA0002](https://github.com/ShahzadMehmood/OrderingApp/assets/74652787/808031a3-e8cd-41fe-8237-582f5fa02d06)
-![IMG-20230802-WA0005](https://github.com/ShahzadMehmood/OrderingApp/assets/74652787/20dfe896-c65f-4630-9aa4-fe25bc3d38a1)
-![IMG-20230802-WA0007](https://github.com/ShahzadMehmood/OrderingApp/assets/74652787/f963622c-d483-433b-a283-4ee5def5f2cb)
-![IMG-20230802-WA0004](https://github.com/ShahzadMehmood/OrderingApp/assets/74652787/9520e9b1-c15c-42ad-8583-82a71a9cc5b2)
 
 Getting Started
 Follow these instructions to set up the Food Ordering App for Admin on your local development environment:
